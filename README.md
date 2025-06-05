@@ -22,5 +22,4 @@ The `Exercises` folder contains homework assignments categorized by specific top
 
 ## 🚀 Project
 
-The `Project` folder contains resources for the course project on the topic of ****.
-
+The `Project` folder contains resources for the course project on the topic of **Deploy wb application with Docker container**.
